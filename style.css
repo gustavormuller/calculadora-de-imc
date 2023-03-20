@@ -55,3 +55,17 @@ input::-webkit-slider-thumb {
     border-radius: 50%;
     cursor: pointer;
 }
+
+#result {
+    font-weight: 700;
+    font-size: 30px;
+    letter-spacing: 1px;
+    text-align: center;
+    color: #0be881;
+}
+
+#category {
+    font-size: 18px;
+    letter-spacing: 1px;
+    text-align: center;
+}
